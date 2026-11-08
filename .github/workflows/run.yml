@@ -109,6 +109,10 @@ jobs:
           name: fty-output
         continue-on-error: true
 
+      - name: Clean name symbols (old Android compatibility)
+        run: |
+          python3 tools/clean_names.py .
+
       - name: Git push assets to "release" branch
         run: |
           git config --local user.name "github-actions[bot]"

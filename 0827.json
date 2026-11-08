@@ -138,7 +138,7 @@
     },
     {
       "key": "索尼",
-      "name": "索尼 ",
+      "name": "索尼",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 1,

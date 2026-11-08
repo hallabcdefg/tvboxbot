@@ -12,49 +12,49 @@
     "name": "正式版",
     "list": [
       {
-        "name": "電視-java",
+        "name": "電視java",
         "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v7a"
       },
       {
-        "name": "電視-java",
+        "name": "電視java",
         "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-java-arm64_v8a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v8a"
       },
       {
-        "name": "電視-py",
+        "name": "電視py",
         "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-python-armeabi_v7a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v7a"
       },
       {
-        "name": "電視-py",
+        "name": "電視py",
         "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-python-arm64_v8a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v8a"
       },
       {
-        "name": "手機-java",
+        "name": "手機java",
         "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
         "version": "v7a"
       },
       {
-        "name": "手機-java",
+        "name": "手機java",
         "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-java-arm64_v8a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
         "version": "v8a"
       },
       {
-        "name": "手機-py",
+        "name": "手機py",
         "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-python-armeabi_v7a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
         "version": "v7a"
       },
       {
-        "name": "手機-py",
+        "name": "手機py",
         "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-python-arm64_v8a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
         "version": "v8a"
@@ -65,49 +65,49 @@
     "name": "內測版",
     "list": [
       {
-        "name": "電視-java",
+        "name": "電視java",
         "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v7a"
       },
       {
-        "name": "電視-java",
+        "name": "電視java",
         "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v8a"
       },
       {
-        "name": "電視-py",
+        "name": "電視py",
         "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v7a"
       },
       {
-        "name": "電視-py",
+        "name": "電視py",
         "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "v8a"
       },
       {
-        "name": "手機-java",
+        "name": "手機java",
         "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
         "version": "v7a"
       },
       {
-        "name": "手機-java",
+        "name": "手機java",
         "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
         "version": "v8a"
       },
       {
-        "name": "手機-py",
+        "name": "手機py",
         "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
         "version": "v7a"
       },
       {
-        "name": "手機-py",
+        "name": "手機py",
         "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
         "icon": "https://i.imgs.ovh/2023/10/17/r8lVK.png",
         "version": "v8a"
@@ -115,7 +115,7 @@
     ]
   },
   {
-    "name": "4.x版",
+    "name": "4x版",
     "list": [
       {
         "name": "電視",

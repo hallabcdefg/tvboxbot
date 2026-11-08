@@ -3,7 +3,7 @@
         "sites": [
             {
                 "key": "tiantian",
-                "name": "⛄┃天天影视┃⛄",
+                "name": "天天影视",
                 "api": "./js/tiantian.js",
                 "timeout": 30,
                 "ext": {
@@ -14,7 +14,7 @@
             },
             {
                 "key": "star",
-                "name": "☄️┃星视界┃墙☄️",
+                "name": "星视界墙",
                 "api": "./js/star.js",
                 "timeout": 30,
                 "ext": {
@@ -25,7 +25,7 @@
             },
             {
                 "key": "aiyingshi",
-                "name": "🚀‍┃爱影视┃🚀",
+                "name": "爱影视",
                 "api": "./js/aiyingshi.js",
                 "timeout": 30,
                 "ext": {
@@ -36,7 +36,7 @@
             },
             {
                 "key": "gitcafe",
-                "name": "🦊┃阿里纸条┃🦊",
+                "name": "阿里纸条",
                 "api": "./js/gitcafe.js",
                 "timeout": 30,
                 "ext": {
@@ -49,7 +49,7 @@
             },
             {
                 "key": "jianpian",
-                "name": "🌼┃荐片┃🌼",
+                "name": "荐片",
                 "api": "./js/jianpian.js",
                 "timeout": 30,
                 "ext": {
@@ -60,7 +60,7 @@
             },
             {
                 "key": "huya",
-                "name": "🐯┃虎牙直播┃🐯",
+                "name": "虎牙直播",
                 "api": "./js/huya.js",
                 "timeout": 30,
                 "ext": {
@@ -71,7 +71,7 @@
             },
             {
                 "key": "kankan70",
-                "name": "📺┃70看看┃📺",
+                "name": "70看看",
                 "api": "./js/kankan70.js",
                 "timeout": 30,
                 "ext": {
@@ -82,7 +82,7 @@
             },
             {
                 "key": "xb6v",
-                "name": "🧲┃磁力新6V┃🧲",
+                "name": "磁力新6V",
                 "api": "./js/xb6v.js",
                 "timeout": 30,
                 "ext": {
@@ -93,7 +93,7 @@
             },
             {
                 "key": "douban",
-                "name": "🍥┃豆瓣┃🍥",
+                "name": "豆瓣",
                 "api": "./js/douban.js",
                 "timeout": 30,
                 "ext": {
@@ -104,7 +104,7 @@
             },
             {
                 "key": "nangua",
-                "name": "🎃┃南瓜影视┃🎃",
+                "name": "南瓜影视",
                 "api": "./js/nangua.js",
                 "timeout": 30,
                 "ext": {
@@ -115,7 +115,7 @@
             },
             {
                 "key": "changzhang",
-                "name": "🏭️┃厂长直连┃🏭️",
+                "name": "厂长直连",
                 "api": "./js/changzhang.js",
                 "timeout": 30,
                 "ext": {
@@ -128,7 +128,7 @@
             },
             {
                 "key": "kuaikan",
-                "name": "🛥︎┃快看视频┃🛥︎",
+                "name": "快看视频",
                 "api": "./js/kuaikan.js",
                 "timeout": 30,
                 "ext": {
@@ -139,7 +139,7 @@
             },
             {
                 "key": "mp4movie",
-                "name": "🍚┃Mp4电影┃🍚",
+                "name": "Mp4电影",
                 "api": "./js/mp4movie.js",
                 "timeout": 30,
                 "ext": {
@@ -150,7 +150,7 @@
             },
             {
                 "key": "cntv",
-                "name": "🤵‍♂️┃中央影视┃🤵‍♂️",
+                "name": "中央影视",
                 "api": "./js/cntv.js",
                 "timeout": 30,
                 "ext": {
@@ -161,7 +161,7 @@
             },
             {
                 "key": "dubo",
-                "name": "🛶┃独播影视┃🛶",
+                "name": "独播影视",
                 "api": "./js/dubo.js",
                 "timeout": 30,
                 "ext": {
@@ -172,7 +172,7 @@
             },
             {
                 "key": "newvision",
-                "name": "🐼┃新视觉影院┃🐼",
+                "name": "新视觉影院",
                 "api": "./js/newvision.js",
                 "timeout": 30,
                 "ext": {
@@ -183,7 +183,7 @@
             },
             {
                 "key": "aliyunpanshare",
-                "name": "🥏‍┃阿里云盘分享┃🥏‍",
+                "name": "阿里云盘分享",
                 "api": "./js/aliyunpanshare.js",
                 "timeout": 30,
                 "ext": {
@@ -196,7 +196,7 @@
             },
             {
                 "key": "nivod",
-                "name": "👑‍┃泥视频┃墙👑",
+                "name": "泥视频墙",
                 "api": "./js/nivod.js",
                 "timeout": 30,
                 "ext": {
@@ -208,7 +208,7 @@
             },
             {
                 "key": "sp360",
-                "name": "🥎┃360影视┃🥎",
+                "name": "360影视",
                 "api": "./js/sp360.js",
                 "timeout": 30,
                 "ext": {
@@ -219,7 +219,7 @@
             },
             {
                 "key": "alipansou",
-                "name": "😸┃阿里猫狸┃😸",
+                "name": "阿里猫狸",
                 "api": "./js/alipansou.js",
                 "timeout": 30,
                 "ext": {
@@ -232,7 +232,7 @@
             },
             {
                 "key": "cilixiong",
-                "name": "🐻┃磁力熊┃🐻",
+                "name": "磁力熊",
                 "api": "./js/cilixiong.js",
                 "timeout": 30,
                 "ext": {
@@ -243,7 +243,7 @@
             },
             {
                 "key": "bilibili",
-                "name": "🏰┃哔哩哔哩┃🏰",
+                "name": "哔哩哔哩",
                 "api": "./js/bilibili.js",
                 "timeout": 30,
                 "ext": {
@@ -255,7 +255,7 @@
             },
             {
                 "key": "dygangs",
-                "name": "🏖️┃电影港┃🏖️",
+                "name": "电影港",
                 "api": "./js/dygangs.js",
                 "timeout": 30,
                 "ext": {
@@ -266,7 +266,7 @@
             },
             {
                 "key": "lovemovie",
-                "name": "💕┃爱情电影网┃💕",
+                "name": "爱情电影网",
                 "api": "./js/lovemovie.js",
                 "timeout": 30,
                 "ext": {
@@ -277,7 +277,7 @@
             },
             {
                 "key": "pan_search",
-                "name": "🗂️┃阿里盘搜┃🗂️",
+                "name": "阿里盘搜",
                 "api": "./js/pan_search.js",
                 "timeout": 30,
                 "ext": {
@@ -290,7 +290,7 @@
             },
             {
                 "key": "mxanime",
-                "name": "🍒┃MX动漫┃🍒",
+                "name": "MX动漫",
                 "api": "./js/mxanime.js",
                 "timeout": 30,
                 "ext": {
@@ -301,7 +301,7 @@
             },
             {
                 "key": "wogg",
-                "name": "💂‍┃阿里玩偶┃💂",
+                "name": "阿里玩偶",
                 "api": "./js/wogg.js",
                 "timeout": 30,
                 "ext": {
@@ -314,7 +314,7 @@
             },
             {
                 "key": "haiwaikan",
-                "name": "☕┃海外看┃☕墙",
+                "name": "海外看墙",
                 "api": "./js/haiwaikan.js",
                 "timeout": 30,
                 "ext": {
@@ -329,7 +329,7 @@
         "sites": [
             {
                 "key": "liujiushu",
-                "name": "📚︎┃六九书吧┃📚︎",
+                "name": "六九书吧",
                 "api": "./js/liujiushu.js",
                 "timeout": 30,
                 "ext": {
@@ -339,7 +339,7 @@
             },
             {
                 "key": "audiomack",
-                "name": "🎵┃音声┃🎵",
+                "name": "音声",
                 "api": "./js/audiomack.js",
                 "timeout": 30,
                 "ext": {
@@ -349,7 +349,7 @@
             },
             {
                 "key": "ttkan",
-                "name": "📚︎┃天天看小说┃📚︎",
+                "name": "天天看小说",
                 "api": "./js/ttkan.js",
                 "timeout": 30,
                 "ext": {
@@ -359,7 +359,7 @@
             },
             {
                 "key": "bqg_open",
-                "name": "📚︎┃笔趣阁┃📚︎",
+                "name": "笔趣阁",
                 "api": "./js/bqg_open.js",
                 "timeout": 30,
                 "ext": {
@@ -369,7 +369,7 @@
             },
             {
                 "key": "bookan",
-                "name": "🎵┃看书┃🎵",
+                "name": "看书",
                 "api": "./js/bookan.js",
                 "timeout": 30,
                 "ext": {
@@ -379,7 +379,7 @@
             },
             {
                 "key": "dj0898_book_open",
-                "name": "🎵┃世纪DJ音乐网┃🎵",
+                "name": "世纪DJ音乐网",
                 "api": "./js/dj0898_book_open.js",
                 "timeout": 30,
                 "ext": {
